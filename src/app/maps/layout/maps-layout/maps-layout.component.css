@@ -1,7 +1,6 @@
 maps-side-menu  {
   position: fixed;
   top: 20px;
-  left: 90px;
+  left: 60px;
   z-index: 999;
-  width: 200px;
 }
